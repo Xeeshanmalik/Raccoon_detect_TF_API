@@ -1,4 +1,4 @@
-#**STEPS OF EXECUTION**
+#STEPS OF EXECUTION
 
 1) Install Docker
 
