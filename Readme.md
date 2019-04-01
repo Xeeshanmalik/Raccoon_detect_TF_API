@@ -11,4 +11,4 @@
 5) Try running the notebook twice if in-case matplotlib warning comes first time.
 
 
-![alt text](https://github.com/Xeeshanmalik/Raccoon_detect_TF_API.git/readme_image.png)
+![alt text](https://github.com/Xeeshanmalik/Raccoon_detect_TF_API/readme_image.png)
