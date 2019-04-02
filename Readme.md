@@ -11,4 +11,4 @@
 5) Try running the notebook twice if in-case matplotlib warning comes first time.
 
 
-![Alt text](readme_image.pngraw=true "Original") 
+![Alt text](readme_image.png?raw=true "Original") 
